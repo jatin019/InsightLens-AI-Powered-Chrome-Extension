@@ -1,7 +1,7 @@
 # 🧠 InsightLens – AI-Powered Content Analyzer Chrome Extension
 
 <p align="center">
-  <img src="extension/icons/icon.png" alt="InsightLens Logo" width="200">
+  <img src="extension/icons/icon128.png" alt="InsightLens Logo" width="200">
 </p>
 
 InsightLens is a browser-native Chrome Extension that allows users to instantly analyze content from text, images, URLs, or YouTube videos using advanced AI. It combines OCR, summarization, sentiment analysis, translation, and word cloud generation in one seamless tool.
@@ -177,7 +177,7 @@ Now the backend is running and the extension is live. You can right-click text, 
 ### 📊 Final Analysis Output
 *Complete analysis results with summary, sentiment, and wordcloud*
 <p align="center">
-  <img src="assets/screenshots/final-output.jpg" alt="Complete Analysis Results" width="500">
+  <img src="assets/screenshots/final output.jpg" alt="Complete Analysis Results" width="500">
 </p>
 
 ### 📋 Analysis Results Display
