@@ -83,7 +83,7 @@ InsightLens/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/insightlens.git
+git clone https://github.com/jatin019/InsightLens-AI-Powered-Chrome-Extension.git
 cd insightlens
 ```
 
